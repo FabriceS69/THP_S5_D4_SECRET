@@ -2,7 +2,7 @@
 
 # MyClub - private club
 
-### App rails du "Club THP de bridge lyonnais" <br/>
+### App rails "Club THP de bridge lyonnais" <br/>
 Welcome on board corsaires & mousaillons :) <br/>
 
 ### Ruby & Rails needed :
@@ -12,13 +12,11 @@ Welcome on board corsaires & mousaillons :) <br/>
 
 ### Please check to use :
 
-```
 Join us online on heroku [here][heroku]
 
 [heroku] : http://myprivateclub.herokuapp.com/
 <http://myprivateclub.herokuapp.com/>
 
-```
 
 ### Please check to test :
 
@@ -27,8 +25,8 @@ Join us online on heroku [here][heroku]
 `rails server`
 
 
-```
+
 Happy bridge & thanks for your visit !
-```
-**Colaborateurs**
+
+**Collaborateurs**
 **From Lyon to the World: Willy, Pauline, Mario, Ludovic, Laëtitia, Jihane, Carlos, Fabrice**
